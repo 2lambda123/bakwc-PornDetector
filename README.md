@@ -5,6 +5,9 @@ First one (pcr.py) use scikit-learn and opencv. I was able to get ~85% accuracy 
 
 Second one (nnpcr.py) uses tensorflow neural network. I was able to get ~90% accuracy on the same markup. It use 4 convolutional (3x3 filters) combined with max_pool (2x2) layers, one 1024 fully connected layer and a softmax classifier at the end.
 
+# Popular porn Websites
+  ## XVIDEOS
+
 ### Requirements of opencv & sklearn detector
 - python 2.7
 - scikit-learn 0.15
