@@ -7,6 +7,7 @@ Second one (nnpcr.py) uses tensorflow neural network. I was able to get ~90% acc
 
 # Popular porn Websites
   ## XVIDEOS
+  ## XNXX
 
 ### Requirements of opencv & sklearn detector
 - python 2.7
